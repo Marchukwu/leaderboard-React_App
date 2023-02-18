@@ -7,7 +7,7 @@ export const Leaderboard = [
     dt: "2022-02-10",
   },
   {
-    name: "Fidel Hand",
+    name: "Chukwudera Aniehe",
     location: "USA",
     score: 2310,
     img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
