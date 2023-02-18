@@ -14,14 +14,14 @@ export const Leaderboard = [
     dt: "2021-01-01",
   },
   {
-    name: "Bessie Hickle",
+    name: "Dickson Divine",
     location: "Chaina",
     score: 350,
     img: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
     dt: "2021-08-17",
   },
   {
-    name: "Adella Wunsch",
+    name: "Onyeyilim Anthony",
     location: "Japan",
     score: 2100,
     img: "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
