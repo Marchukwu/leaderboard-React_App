@@ -3,8 +3,9 @@ export const Leaderboard = [
     name: "Ezeh Pascal",
     details: "Track : Poductdesign; stacks: Figma, Flowmap, Sketch and InVision",
     score: 1550,
-    img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
+    img: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeimages.com%2Fsearch%2Fportrait&psig=AOvVaw2s_R7n6V9MD_Hd6No1io6v&ust=1676911522027000&source=images&cd=vfe&ved=2ahUKEwiI7v6thKL9AhW7hCcCHXScDV0Qr4kDegUIARDSAg
     dt: "2023-02-10",
+    "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
   },
   {
     name: "Chukwudera Aniehe",
