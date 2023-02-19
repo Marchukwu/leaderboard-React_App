@@ -3,9 +3,9 @@ export const Leaderboard = [
     name: "Ezeh Pascal",
     details: "Track : Poductdesign; stacks: Figma, Flowmap, Sketch and InVision",
     score: 1550,
-    img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRVIY3tbLhPDQbcKSbM-A2bwF-k3poVL2s8A&usqp=CAU",
     dt: "2023-02-10",
-  },
+  },https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=4&w=256&h=256&q=60
   {
     name: "Chukwudera Aniehe",
     details: "Track : Backend; stacks: API, CSS, Mongolia and Solidity",
